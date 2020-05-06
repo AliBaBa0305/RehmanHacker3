@@ -76,7 +76,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;97m************************************************
-\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR Ali 💕 ~
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR Ali BaBa💕 ~
 \033[1;97m************************************************
 
 \033[1;95m____─▄───────▄█▄───────▄─ Stay Home 💓
@@ -295,7 +295,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;92m●══════════════════◄►══════════════════●"
 
-	jalan('           \033[1;91mAahil start cloning Wait...')
+	jalan('           \033[1;91mAli start cloning Wait...')
 	print  "  \033[1;92m ●══════════════════◄►══════════════════●" 
 
 	def main(arg):
@@ -514,7 +514,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackTiger\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By Rana Aahil--•◈•---»" #Dev:Rana
+	print "  \033[1;91m«---•◈•---Developed By Rehman--•◈•---»" #Dev:Rana
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Tiger.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
@@ -538,10 +538,10 @@ _______¶¶¶_________¶______¶_________¶¶¶______
  
          Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....Aahil Creations....... \033[1;95m :
+: \033[1;91m ....Ali Creations....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;91m Aahil"""
+              \033[1;91m Ali"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
